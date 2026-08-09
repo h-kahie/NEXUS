@@ -1,10 +1,14 @@
 <?php
 
-define('APP_NAME', 'NEXUS');
-define('APP_VERSION', '1.0.0');
+declare(strict_types=1);
 
-date_default_timezone_set('Africa/Nairobi');
+const APP_NAME = 'NEXUS';
+const APP_VERSION = '1.0.0';
+const APP_TIMEZONE = 'Africa/Nairobi';
 
-function e(string $value): string {
+date_default_timezone_set(APP_TIMEZONE);
+
+function e(string $value): string
+{
     return htmlspecialchars($value, ENT_QUOTES, 'UTF-8');
 }
