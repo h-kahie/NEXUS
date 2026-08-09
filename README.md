@@ -6,36 +6,57 @@
 
 NEXUS is my personal system for managing the areas that matter most in my life — **Education, Skills, Faith, Health, and Personal Growth.**
 
-It is intentionally simple.
-
-I don't want to spend my life managing a system.  
-**I want the system to help me manage my life.**
+It is intentionally simple. I don't want to spend my life managing a system. **I want the system to help me manage my life.**
 
 ---
 
 ## 🎯 CURRENT FOCUS
 
-| Area | Current Focus | Status |
-|---|---|---|
-| 🎓 Education | University & academic progress | 🟢 Active |
-| 💻 Skills | Python & Software Development | 🟢 Active |
-| 🕌 Faith | Consistency & growth | 🟢 Active |
-| 🏋️ Health | Fitness & healthy routine | 🟢 Active |
-| 🧠 Personal | Discipline & personal growth | 🟡 Building |
+| Area | Current Focus | Priority | Status |
+|---|---|---|---|
+| 🎓 Education | University & academic progress | High | 🟢 Active |
+| 💻 Skills | Python & Software Development | High | 🟢 Active |
+| 🕌 Faith | Consistency & growth | High | 🟢 Active |
+| 🏋️ Health | Fitness & healthy routine | Medium | 🟢 Active |
+| 🧠 Personal | Discipline & personal growth | Medium | 🟡 Building |
 
 ---
 
-## 📅 THIS WEEK
+## 📅 WEEKLY PLAN
 
-### Most Important
+> Use this table for the **3–5 outcomes that matter most this week**. Put the actual time blocks in Google Calendar and actionable items in Google Tasks.
 
-- [ ] Priority 01
-- [ ] Priority 02
-- [ ] Priority 03
+| Priority | Area | Outcome / Goal | Deadline | Status |
+|---|---|---|---|---|
+| 1 | 🎓 Education |  |  | ⬜ Not started |
+| 2 | 💻 Skills |  |  | ⬜ Not started |
+| 3 | 🕌 Faith |  |  | ⬜ Not started |
+| 4 | 🏋️ Health |  |  | ⬜ Not started |
+| 5 | 🧠 Personal |  |  | ⬜ Not started |
 
-### Focus
+### 🗓️ Weekly Schedule
 
-**Learn → Build → Improve**
+| Day | Main Focus | Important Time Blocks | Notes |
+|---|---|---|---|
+| Monday |  |  |  |
+| Tuesday |  |  |  |
+| Wednesday |  |  |  |
+| Thursday |  |  |  |
+| Friday |  |  |  |
+| Saturday |  |  |  |
+| Sunday |  |  |  |
+
+---
+
+## 📆 MONTHLY PLAN
+
+| Area | Main Goal | Key Result | Status |
+|---|---|---|---|
+| 🎓 Education |  |  | ⬜ |
+| 💻 Skills |  |  | ⬜ |
+| 🕌 Faith |  |  | ⬜ |
+| 🏋️ Health |  |  | ⬜ |
+| 🧠 Personal |  |  | ⬜ |
 
 ---
 
@@ -73,40 +94,52 @@ Personal development, goals, discipline, ideas and life direction.
 
 ---
 
+## 📌 TODAY
+
+| Time | Activity | Area | Status |
+|---|---|---|---|
+|  |  |  | ⬜ |
+|  |  |  | ⬜ |
+|  |  |  | ⬜ |
+|  |  |  | ⬜ |
+
+> **Rule:** Keep this short. Your full schedule belongs in Google Calendar.
+
+---
+
 ## 🔄 WEEKLY REVIEW
 
 > **Stop. Reflect. Adjust. Continue.**
 
-### What went well?
+| Question | Answer |
+|---|---|
+| What went well? |  |
+| What didn't go well? |  |
+| What did I learn? |  |
+| What did I avoid? |  |
+| What needs to change? |  |
+| What is next week's #1 priority? |  |
 
-- 
+### Weekly Score
 
-### What didn't go well?
-
-- 
-
-### What did I learn?
-
-- 
-
-### What needs to change?
-
-- 
-
-### Next week's priority
-
-**→**
+| Area | Score / 10 | Note |
+|---|---:|---|
+| 🎓 Education |  |  |
+| 💻 Skills |  |  |
+| 🕌 Faith |  |  |
+| 🏋️ Health |  |  |
+| 🧠 Personal |  |  |
 
 ---
 
 ## 📊 MY SYSTEM
 
-| Tool | Purpose |
-|---|---|
-| 📅 Google Calendar | **When** — time & schedule |
-| ✅ Google Tasks | **What** — actions & tasks |
-| 🧭 NEXUS | **Why** — direction & progress |
-| 💻 GitHub | **Record** — long-term history |
+| Tool | Purpose | Rule |
+|---|---|---|
+| 📅 Google Calendar | **When** — time & schedule | Time-block it |
+| ✅ Google Tasks | **What** — actions & tasks | Keep tasks actionable |
+| 🧭 NEXUS | **Why** — direction & progress | Review weekly |
+| 💻 GitHub | **Record** — long-term history | Update when useful |
 
 ---
 
@@ -118,6 +151,7 @@ Personal development, goals, discipline, ideas and life direction.
 4. **Progress over perfection.**
 5. **Review before adding more.**
 6. **Don't track what you don't act on.**
+7. **If a table takes longer to maintain than the value it gives, remove it.**
 
 ---
 
