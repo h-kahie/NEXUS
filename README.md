@@ -1,172 +1,74 @@
-# 🧭 NEXUS
+# NEXUS — Personal Life OS
 
-### Personal Life Operating System
+NEXUS is a local-first personal life management system built with PHP, MySQL, HTML, CSS, and JavaScript.
 
-> **Build intentionally. Learn continuously. Live meaningfully.**
+## Purpose
 
-NEXUS is my personal system for managing the areas that matter most in my life — **Education, Skills, Faith, Health, and Personal Growth.**
+NEXUS helps manage five core areas without duplicating daily task management:
 
-It is intentionally simple. I don't want to spend my life managing a system. **I want the system to help me manage my life.**
+- Education
+- Skills
+- Faith
+- Health
+- Personal
 
----
+### System principle
 
-## 🎯 CURRENT FOCUS
+**Goals → Schedule → Execute → Track → Review**
 
-| Area | Current Focus | Priority | Status |
-|---|---|---|---|
-| 🎓 Education | University & academic progress | High | 🟢 Active |
-| 💻 Skills | Python & Software Development | High | 🟢 Active |
-| 🕌 Faith | Consistency & growth | High | 🟢 Active |
-| 🏋️ Health | Fitness & healthy routine | Medium | 🟢 Active |
-| 🧠 Personal | Discipline & personal growth | Medium | 🟡 Building |
+## Stack
 
----
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Apache/XAMPP for local development
 
-## 📅 WEEKLY PLAN
+## Architecture
 
-> Use this table for the **3–5 outcomes that matter most this week**. Put the actual time blocks in Google Calendar and actionable items in Google Tasks.
+```text
+NEXUS/
+├── app/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   └── views/
+├── database/
+│   └── nexus.sql
+├── public/
+│   ├── index.php
+│   └── assets/
+│       ├── css/
+│       └── js/
+├── includes/
+├── .gitignore
+└── README.md
+```
 
-| Priority | Area | Outcome / Goal | Deadline | Status |
-|---|---|---|---|---|
-| 1 | 🎓 Education |  |  | ⬜ Not started |
-| 2 | 💻 Skills |  |  | ⬜ Not started |
-| 3 | 🕌 Faith |  |  | ⬜ Not started |
-| 4 | 🏋️ Health |  |  | ⬜ Not started |
-| 5 | 🧠 Personal |  |  | ⬜ Not started |
+## Development phases
 
-### 🗓️ Weekly Schedule
+1. Foundation and project structure
+2. MySQL database
+3. PHP backend and CRUD
+4. Core areas and goals
+5. Milestones and progress
+6. Schedule
+7. Weekly and monthly rhythm
+8. Dashboard
+9. Authentication and security
+10. Testing and polish
 
-| Day | Main Focus | Important Time Blocks | Notes |
-|---|---|---|---|
-| Monday |  |  |  |
-| Tuesday |  |  |  |
-| Wednesday |  |  |  |
-| Thursday |  |  |  |
-| Friday |  |  |  |
-| Saturday |  |  |  |
-| Sunday |  |  |  |
+## Local setup
 
----
+1. Put the project inside XAMPP `htdocs`.
+2. Start Apache and MySQL.
+3. Create the database using `database/nexus.sql`.
+4. Configure database credentials in `app/config/database.php`.
+5. Open `http://localhost/NEXUS/public/`.
 
-## 📆 MONTHLY PLAN
+## Status
 
-| Area | Main Goal | Key Result | Status |
-|---|---|---|---|
-| 🎓 Education |  |  | ⬜ |
-| 💻 Skills |  |  | ⬜ |
-| 🕌 Faith |  |  | ⬜ |
-| 🏋️ Health |  |  | ⬜ |
-| 🧠 Personal |  |  | ⬜ |
+**NEXUS v1.0 — Foundation**
 
----
-
-## 🧩 LIFE AREAS
-
-### 🎓 Education
-
-University, courses, assignments, exams and academic development.
-
-→ [Open Education](./01-EDUCATION/)
-
-### 💻 Skills
-
-Technical and professional skills I'm intentionally developing.
-
-→ [Open Skills](./02-SKILLS/)
-
-### 🕌 Faith
-
-My spiritual goals, consistency and personal reflection.
-
-→ [Open Faith](./03-FAITH/)
-
-### 🏋️ Health
-
-Fitness, physical wellbeing and healthy habits.
-
-→ [Open Health](./04-HEALTH/)
-
-### 🧠 Personal
-
-Personal development, goals, discipline, ideas and life direction.
-
-→ [Open Personal](./05-PERSONAL/)
-
----
-
-## 📌 TODAY
-
-| Time | Activity | Area | Status |
-|---|---|---|---|
-|  |  |  | ⬜ |
-|  |  |  | ⬜ |
-|  |  |  | ⬜ |
-|  |  |  | ⬜ |
-
-> **Rule:** Keep this short. Your full schedule belongs in Google Calendar.
-
----
-
-## 🔄 WEEKLY REVIEW
-
-> **Stop. Reflect. Adjust. Continue.**
-
-| Question | Answer |
-|---|---|
-| What went well? |  |
-| What didn't go well? |  |
-| What did I learn? |  |
-| What did I avoid? |  |
-| What needs to change? |  |
-| What is next week's #1 priority? |  |
-
-### Weekly Score
-
-| Area | Score / 10 | Note |
-|---|---:|---|
-| 🎓 Education |  |  |
-| 💻 Skills |  |  |
-| 🕌 Faith |  |  |
-| 🏋️ Health |  |  |
-| 🧠 Personal |  |  |
-
----
-
-## 📊 MY SYSTEM
-
-| Tool | Purpose | Rule |
-|---|---|---|
-| 📅 Google Calendar | **When** — time & schedule | Time-block it |
-| ✅ Google Tasks | **What** — actions & tasks | Keep tasks actionable |
-| 🧭 NEXUS | **Why** — direction & progress | Review weekly |
-| 💻 GitHub | **Record** — long-term history | Update when useful |
-
----
-
-## 🧠 PRINCIPLES
-
-1. **Keep it simple.**
-2. **Focus on what matters.**
-3. **Systems serve life — not the opposite.**
-4. **Progress over perfection.**
-5. **Review before adding more.**
-6. **Don't track what you don't act on.**
-7. **If a table takes longer to maintain than the value it gives, remove it.**
-
----
-
-## 🚀 LONG-TERM VISION
-
-NEXUS will gradually become a reliable personal system for:
-
-**Learn → Build → Reflect → Improve → Repeat**
-
-> *Small improvements, consistently applied, create a different life.*
-
----
-
-### Status
-
-**NEXUS v1.0 — Personal Life OS**
-
-*Built for clarity, consistency and growth.*
+Built for clarity, consistency, and growth.
